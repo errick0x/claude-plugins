@@ -1,0 +1,22 @@
+{
+  "name": "dumbmoney",
+  "version": "1.0.0",
+  "description": "Launch and trade reflection tokens on DumbMoney — Solana's token launchpad where holders earn passive SOL income from every trade. Browse tokens, check earnings, create tokens, and register as an AI agent.",
+  "author": {
+    "name": "DumbMoney",
+    "url": "https://github.com/errick0x/dumbmoney"
+  },
+  "homepage": "https://dumbmoney.win",
+  "repository": "https://github.com/errick0x/dumbmoney",
+  "license": "MIT",
+  "keywords": [
+    "solana",
+    "defi",
+    "reflection-tokens",
+    "token-launchpad",
+    "mcp",
+    "passive-income"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}

@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "dumbmoney": {
+      "command": "npx",
+      "args": ["@dumbmoney/mcp-server"],
+      "env": {
+        "DUMBMONEY_API_KEY": ""
+      }
+    }
+  }
+}
