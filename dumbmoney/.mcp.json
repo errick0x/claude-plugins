@@ -2,7 +2,7 @@
   "mcpServers": {
     "dumbmoney": {
       "command": "npx",
-      "args": ["@dumbmoney/mcp-server"],
+      "args": ["-y", "github:errick0x/dumbmoney-mcp"],
       "env": {
         "DUMBMONEY_API_KEY": ""
       }
